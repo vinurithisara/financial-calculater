@@ -1,0 +1,19 @@
+Principal Amount=10000
+Future Value=10000
+Interest Rate=4
+Period=2
+Principal Amount=1000
+Monthly Addition=357.49096620362496
+***********************
+Principal Amount=10000
+Interest Rate=4
+Future value=30000
+Monthly payment=500
+Period=0.0017808175801421718
+***********************
+Future value=100000
+Interest Rate=4
+Period=3
+Monthly payment=750
+Start Principal=63306.66970999208
+***********************
